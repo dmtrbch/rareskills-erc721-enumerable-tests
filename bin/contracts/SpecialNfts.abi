@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"contract IERC721Enumerable","name":"_NFTAddress","type":"address"}],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[{"internalType":"address","name":"_owner","type":"address"}],"name":"specialNftsCount","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"}]
